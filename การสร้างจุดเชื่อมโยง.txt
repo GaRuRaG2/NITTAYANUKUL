@@ -1,6 +1,6 @@
 ﻿<HTML>
 <HEAD>
-<TITLE>การจัดหน้าเว็บด้วยตาราง </TITLE>
+<TITLE>การสร้างจุดเชื่อมโยง </TITLE>
 </HEAD>
 <html>
 <head> <title> การสร้างจุดเชื่อมโยง </title> </head>
